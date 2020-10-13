@@ -70,7 +70,7 @@
 
 #### Languages and Tools I like:
 
-<div>
+<div align="center">
 <img
       align="center"
       height="32"
@@ -133,4 +133,4 @@
     />
 </div>
 
-###### <div>(Some) Images from <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> and <a haref="https://us.clipdealer.com">Clip Dealer</a>.</div>
+###### (Some) Images from [Freepik](https://www.flaticon.com/authors/freepik) and [Clip Dealer](https://us.clipdealer.com).
