@@ -11,14 +11,14 @@
   <a href="https://github.com/caio-davi">
     <img
       align="center"
-      height="32"
+      height="30"
       src="./images/github.png"
     />
   </a>
   <a href="https://medium.com/@caiocmd">
     <img
       align="center"
-      height="35"
+      height="28"
       src="./images/medium.png"
     />
   </a>
@@ -52,11 +52,11 @@
 
 ### I'm Caio Davi, and I'm glad to see you here!
 
-##### Here you'll find a lot of code related to my research, my work, and my hobbies. Currently, I'm in the second year of the Ph.D. program in Electrical and Computer Engineering at Texas A&M, and my major interests are Data Science, Machine Learning, and Deep Learning.
+#### Here you'll find a lot of code related to my research, my work, and my hobbies. Currently, I'm in the second year of the Ph.D. program in Electrical and Computer Engineering at Texas A&M, and my major interests are Data Science, Machine Learning, and Deep Learning.
 
-##### Please, feel free to explore my repositories, and my 🌟 stars (a lot of them inspired me in many different ways). If you have any questions, or just want to say hello, contact me at caio@tamu.edu.
+#### Please, feel free to explore my repositories, and my 🌟 stars (a lot of them inspired me in many different ways). If you have any questions, or just want to say hello, contact me at caio@tamu.edu.
 
-##### Some Selected Articles: (📜 Academic / 📰 Not-academic)
+#### Some Selected Articles: (📜 Academic / 📰 Not-academic)
 
 - [📜 Caio Davi, U. Braga-Neto. A Semi-Supervised Generative Adversarial Network for Prediction of Genetic Disease Outcomes. LatinX in AI at NeurIPS 2020 (Submitted). arXiv:2007.01200, 2020.](https://arxiv.org/abs/2007.01200)
 
@@ -68,7 +68,7 @@
 
 - [📰 Caio Davi, "How to use NASA open access data to find worldwide populations", Jan 2020. Analytics Vidhya ](https://medium.com/analytics-vidhya/how-to-use-nasa-open-access-data-to-find-worldwide-populations-230d19da5763?source=friends_link&sk=410dd39d1711144bf97ee3651d8d29a8)
 
-##### Languages and Tools I like:
+#### Languages and Tools I like:
 
 <div>
 <img
