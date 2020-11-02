@@ -23,29 +23,6 @@
     />
   </a>
   </div>
-
-  <div align="center">
-  <img
-      align="center"
-      height="300"
-      src="./images/pe.png"
-    />
-  </div>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-davi&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=caio-davi&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
@@ -67,6 +44,22 @@
 - [📰 Caio Davi, "Why Perceptron Neurons Need Bias Input?", Mar 2020. Towards AI](https://medium.com/towards-artificial-intelligence/why-perceptron-neurons-need-bias-input-2144633bcad4?source=friends_link&sk=6f235388e5424ad43827d22045464423)
 
 - [📰 Caio Davi, "How to use NASA open access data to find worldwide populations", Jan 2020. Analytics Vidhya ](https://medium.com/analytics-vidhya/how-to-use-nasa-open-access-data-to-find-worldwide-populations-230d19da5763?source=friends_link&sk=410dd39d1711144bf97ee3651d8d29a8)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-davi&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=caio-davi&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
 #### Languages and Tools I like:
 
