@@ -35,7 +35,7 @@
 
 #### Some Selected Articles: (📜 Academic / 📰 Not-academic)
 
-- [📜 Caio Davi, U. Braga-Neto. A Semi-Supervised Generative Adversarial Network for Prediction of Genetic Disease Outcomes. LatinX in AI at NeurIPS 2020 (Submitted). arXiv:2007.01200, 2020.](https://arxiv.org/abs/2007.01200)
+- [📜 Caio Davi, U. Braga-Neto. A Semi-Supervised Generative Adversarial Network for Prediction of Genetic Disease Outcomes. arXiv:2007.01200, 2020.](https://arxiv.org/abs/2007.01200)
 
 - [📜 Caio Davi et al., "Severe Dengue Prognosis Using Human Genome Data and Machine Learning," in IEEE Transactions on Biomedical Engineering, vol. 66, no. 10, pp. 2861-2868, Oct. 2019, doi: 10.1109/TBME.2019.2897285.](https://ieeexplore.ieee.org/document/8633395)
 
